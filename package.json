@@ -1,0 +1,14 @@
+{
+	"name"			: "pollution-scrapper",
+	"version"			: "0.0.1",
+	"description"		: "Fetch pollution data",
+	"main"			: "server.js",
+	"author"			: "Noushad Siddiqui",
+	"dependencies"	: {
+		"request"		: "latest",
+		"cheerio"		: "latest",
+		"cron"			: "latest",
+		"mongodb"		: "latest",
+		"body-parser"	: "~1.0.1"
+  }
+}
