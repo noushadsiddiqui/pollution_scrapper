@@ -6,6 +6,7 @@
 	"author"			: "Noushad Siddiqui",
 	"dependencies"	: {
 		"request"		: "latest",
+		"express"		: "latest",
 		"cheerio"		: "latest",
 		"cron"			: "latest",
 		"mongodb"		: "latest",
